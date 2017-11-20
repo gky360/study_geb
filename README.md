@@ -1,6 +1,6 @@
 # study_geb
 
-Slenium + Geb + Groovy + Spock
+Selenium + Geb + Groovy + Spock
 
 ## Run tests
 
